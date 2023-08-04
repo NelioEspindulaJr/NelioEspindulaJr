@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelioespindulajr" alt="nelioespindulajr" /></a> </p>
 
-- 🔭 I’m currently working on [Superticket](https://superticket.com.br/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/NelioEspindulaJr](https://github.com/NelioEspindulaJr)
-
-- 📫 How to reach me **nelioespindula.junior@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nelioespindulajunior/](https://www.linkedin.com/in/nelioespindulajunior/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nelioespindulajunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelioespindulajunior" height="30" width="40" /></a>
